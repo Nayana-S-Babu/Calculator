@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator 
+A simple calculator implemented using C programming to perform basic mathematical operations.
